@@ -1,0 +1,27 @@
+[33mtag v1.1[m
+Tagger: ammu <aaravkulkarni18@outlook.com>
+Date:   Tue Feb 9 14:09:34 2021 +0000
+
+version V1.1 done
+
+[33mcommit 46f1538be90e37cc1e5950245d2eec9104b4bde5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.1[m[33m)[m
+Author: ammu <aaravkulkarni18@outlook.com>
+Date:   Mon Feb 8 15:10:13 2021 +0000
+
+    my secound commit
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..139597f[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m
+[32m+[m
+[1mdiff --git a/file1.txt b/test1.class[m
+[1msimilarity index 100%[m
+[1mrename from file1.txt[m
+[1mrename to test1.class[m
+[1mdiff --git a/test2.class b/test2.class[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
